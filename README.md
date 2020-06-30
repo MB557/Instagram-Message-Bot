@@ -32,8 +32,8 @@ After the requirements have been met, follow the below steps to run the program.
 - If you're getting an error, check the python version you're using by typing ```python --version``` in CMD. Make sure you are using python
 	3 and above. If the error still pops up, check if the modules were installed correctly.
 - After the program executes, it will ask for certain necessary details such as **host account details, Instagram ID of the receiver 
-and the message (text/image)** to be sent as shown below. <br>
-	<p align="center">![CMD](https://user-images.githubusercontent.com/55105941/86123011-63f5dd80-baf6-11ea-976f-379e81d8a9aa.JPG) </p> 
+and the message (text/image)** to be sent as shown below. <br> <br>
+	<img align="center">![CMD](https://user-images.githubusercontent.com/55105941/86123011-63f5dd80-baf6-11ea-976f-379e81d8a9aa.JPG) <br>
 - If the message type is Text, you will be required to type in the message.
 - However, if you choose to send an image, a dialog box will open from where you can choose your image.
 
@@ -42,7 +42,7 @@ and the message (text/image)** to be sent as shown below. <br>
 - This bot **only works in _Windows_** (due to directory address configurations which differ in other OS'es.)
 - This bot contains 2 .py files. It is necessary to **keep these files in the _same directory_.**
 - After the installation of the Chrome Webdriver, it is important to **_replace the driver address in line number 13_ in [Instagram_Message_Bot.py](Instagram_Message_Bot.py) with the address of your Webdriver's location address.** Line 13: <br>
-	<p align = "center"> ![Line13](https://user-images.githubusercontent.com/55105941/86123326-e5e60680-baf6-11ea-8a91-ba9efcf3db8a.JPG) </p>
+	<img align = "center"> ![Line13](https://user-images.githubusercontent.com/55105941/86123326-e5e60680-baf6-11ea-8a91-ba9efcf3db8a.JPG) <br>
 - The password **will not be _visible (and won't be stored)_ when being typed.**
 
 After the provision of these details, the bot takes over and the **user can go away from keyboard.**
