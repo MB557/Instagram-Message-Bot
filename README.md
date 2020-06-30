@@ -1,4 +1,4 @@
-# :computer: Instagram-Message-Bot :robot:
+# :computer: Instagram-Message-Bot :robot:   ![Followers](https://img.shields.io/github/followers/MB557?label=Followers&style=social) ![](https://img.shields.io/maintenance/yes/2020)
 A bot that efficiently handles message sending on Instagram. <br> 
 
 # About :question:
