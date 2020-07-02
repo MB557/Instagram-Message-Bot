@@ -6,7 +6,8 @@ A bot that efficiently handles message sending on Instagram. <br>
 I have programmed a message bot that works specifically for Instagram. The bot was designed in _Python 3.7.6_ making use of 
 webscraping techniques. The objective of this bot is to automate the process of sending a message (text/image) to a receiver without the
 involvement of the user/host. <br>
-Link to code: [Instagram_Message_Bot.py](Instagram_Message_Bot.py)
+**Video Demonstration: [Working of the Bot](https://youtu.be/xrY6dClRt2s) <br>
+Link to code: [Instagram_Message_Bot.py](Instagram_Message_Bot.py)**
 
 # Requirements :clipboard:
 
