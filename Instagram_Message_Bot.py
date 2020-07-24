@@ -84,7 +84,7 @@ if (choice == "text"):
 elif (choice == "image"):  
     var = 0
     message1 = ""
-    from pwdvkn import *
+    from imageSelection import *
     finalURL = "file:///" + imageAddr + imageJPG
     my_bot = InstaBot(username, password, message1, finalURL, searchID, var)
 
