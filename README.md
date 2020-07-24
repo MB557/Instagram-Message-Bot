@@ -19,9 +19,10 @@ The following system requirements must be met. To install a requirement, you can
 
 ### Python Module Requirements
 This bot works on the concept of webscraping. Thus, to run this bot, certain modules will have to be installed.
-- **selenium**
-- **PIL**
-- **tkinter**
+- **selenium** : For accessing web-browser.
+- **PIL** : For sending images.
+- **tk** : Short form for **tkinter**, used for opening a dialog box that allows users to select images.
+- **getpass** : Hides password when it's being typed.
 
 To install these modules, open up CMD and type in: ```pip3 install <modulename>```
 <br>
