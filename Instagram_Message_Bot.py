@@ -36,7 +36,12 @@ class InstaBot:
 
         self.driver.find_element_by_xpath("//input[@placeholder=\"Search\"]").send_keys(searchID)   #Searches target 
         sleep(2)
-
+        
+        K = "https://www.instagram.com/" + searchID + "/"
+        
+        self.driver.get(K)                                                                          #Visit target's Instagram profile
+        sleep(2)
+        
         self.driver.find_element_by_xpath("//*[@id=\"react-root\"]/section/nav/div[2]/div/div/div[2]/div[2]/div[2]/div/a[1]/div/div[2]/div/span").click()
         sleep(2)
 
